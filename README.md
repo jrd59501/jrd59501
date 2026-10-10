@@ -1,4 +1,4 @@
-# Hi, I'm Justin Denny 👋
+# Hi, I'm Justin Denny 
 
 **Web Developer** | Cascade CMS · WCAG 2.2 Accessibility · Full-Stack JavaScript
 
